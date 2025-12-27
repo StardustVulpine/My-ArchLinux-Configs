@@ -1,0 +1,25 @@
+[Desktop Entry]
+DefaultProfile=StardustVulpine.profile
+
+[General]
+ConfigVersion=1
+
+[KonsoleWindow]
+RememberWindowSize=false
+
+[MainWindow]
+MenuBar=Disabled
+
+[Notification Messages]
+CloseAllTabs=true
+CloseSingleTab=true
+
+[SplitView]
+SplitViewVisibility=AlwaysHideSplitHeader
+
+[TabBar]
+CloseTabOnMiddleMouseButton=true
+NewTabButton=true
+
+[UiSettings]
+ColorScheme=
