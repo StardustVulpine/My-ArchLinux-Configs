@@ -12,7 +12,7 @@ Tools used on this screenshot: fastfetch, btop, unimatrix, cava
 
 ## Konsole
 My profile for KDE Konsole terminal emulator.
-<img width="758" height="430" alt="image" src="https://github.com/user-attachments/assets/d325fb6d-13ab-460f-bceb-d63cd8f214ea" />
+<img width="758" height="430" alt="image" src="./screenshots/konsole.png" />
 
 
 ### Setup:
@@ -44,3 +44,6 @@ For other distros use your distro package manager.
 - `config.jsonc`
   
 4. Done. Enjoy my fastfetch config. You can edit it however you want :)
+
+
+## 🛠️ Under Construction 🛠️
