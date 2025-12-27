@@ -44,3 +44,6 @@ For other distros use your distro package manager.
 - `config.jsonc`
   
 4. Done. Enjoy my fastfetch config. You can edit it however you want :)
+
+
+## 🛠️ Under Construction 🛠️
