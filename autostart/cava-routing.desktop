@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Cava Audio Routing
+Exec=sh -c "pactl load-module module-null-sink sink_name=CavaStream sink_properties=device.description='Cava_Music_Only' && pactl load-module module-loopback source=CavaStream.monitor"
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
