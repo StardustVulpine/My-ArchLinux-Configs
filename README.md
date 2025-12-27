@@ -6,21 +6,30 @@ This is my repo to hold and backup all my Arch Linux setup config files for easy
 
 Tools used on this screenshot: fastfetch, btop, unimatrix, cava
 
-## Table of contents
-- [How to setup](#how-to-setup)
-  - [Fastfetch](#fastfetch)
-    - [Requrements](#packages-requrements)
-    - [Setup](#setup)   
+## Setup Instructions
+- [Konsole](#konsole)
+- [Fastfetch](#fastfetch) 
 
-## How to setup
+## Konsole
+My profile for KDE Konsole terminal emulator.
+<img width="758" height="430" alt="image" src="https://github.com/user-attachments/assets/d325fb6d-13ab-460f-bceb-d63cd8f214ea" />
 
-### Fastfetch
+
+### Setup:
+Simply download my profile file from `./konsole/StardustVulpine.profile` or clone this repo.
+
+Put profile file in `/.local/share/konsole/`
+
+If you want my Konsole settings regarding menus, bars, spliters, download `./konsole/konsolerc` file and put it in `~/.config` directory.
+
+
+## Fastfetch
 ![Fastfetch screenshot](./screenshots/fastfetch.png)
 #### Packages Requrements:
 - `fastfetch`
 - `ttf-jetbrains-mono-nerd`
 
-#### Setup:
+### Setup:
 1. Install requred packages:
 For Arch-based system run:
 ```
