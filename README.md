@@ -6,21 +6,21 @@ This is my repo to hold and backup all my Arch Linux setup config files for easy
 
 Tools used on this screenshot: fastfetch, btop, unimatrix, cava
 
-# Table of contents
+## Table of contents
 - [How to setup](#how-to-setup)
   - [Fastfetch](#fastfetch)
     - [Requrements](#packages-requrements)
     - [Setup](#setup)   
 
-# How to setup
+## How to setup
 
-## Fastfetch
+### Fastfetch
 ![Fastfetch screenshot](./screenshots/fastfetch.png)
-### Packages Requrements:
+#### Packages Requrements:
 - `fastfetch`
 - `ttf-jetbrains-mono-nerd`
 
-### Setup:
+#### Setup:
 1. Install requred packages:
 For Arch-based system run:
 ```
