@@ -15,9 +15,9 @@
       "9": "#74C7EC"
     },
     "padding": {
-      "top": 3,
-      "right": 5,
-      "left": 5
+      "top": 5,
+      "right": 10,
+      "left": 10
     }
   },
   "display": {
@@ -38,11 +38,11 @@
     }
   },
    "modules": [
-    {
+    /*{
       "type": "custom",
       "format": "I use 󰣇  btw. \n",
       "keyColor": "blue"
-    },
+    },*/
 // Hardware
     {
       "type": "host",
@@ -138,12 +138,12 @@
       "format": "{1}",
       "keyColor": "blue"
     },
-    {
+/*    {
       "type": "title",
       "key": "  ├─󰒋 ",
       "format": "{2}",
       "keyColor": "blue"
-    },
+    },*/
     {
       "type": "kernel",
       "key": "  ├─ ",
