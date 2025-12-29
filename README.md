@@ -18,7 +18,7 @@ My profile for KDE Konsole terminal emulator.
 ### Setup:
 Simply download my profile file from `./konsole/StardustVulpine.profile` or clone this repo.
 
-Put profile file in `/.local/share/konsole/`
+Put profile file in `~/.local/share/konsole/`
 
 If you want my Konsole settings regarding menus, bars, spliters, download `./konsole/konsolerc` file and put it in `~/.config` directory.
 
