@@ -109,10 +109,11 @@ chsh -s /usr/bin/zsh
 ```
 Relog or reboot to apply this change.
 
-7. BONUS: Usefull command to get colors and thier IDs for customization zsh theme:
-```
-for i in {0..255}; do print -Pn "%K{$i}  %k%F{$i}$i%f " ; done
-``` 
+> [!TIP]
+> Usefull command to get colors and thier IDs for customization zsh theme:
+> ```
+> for i in {0..255}; do print -Pn "%K{$i}  %k%F{$i}$i%f " ; done
+> ``` 
 
 
 
