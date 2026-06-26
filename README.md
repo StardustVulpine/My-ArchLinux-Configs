@@ -54,7 +54,8 @@ For other distros use your distro package manager.
 ## zsh
 #### Packages Requirements:
 - `zsh`
-- `zsh-completions` *(optional for additional completions definitions)*
+- `zsh-autosuggestions`
+- `zsh-completions`
 - `zsh-theme-powerlevel10k` *([from AUR](https://aur.archlinux.org/packages/zsh-theme-powerlevel10k))*
 - `ttf-jetbrains-mono-nerd`
 
@@ -63,7 +64,7 @@ For other distros use your distro package manager.
 
 - Packages:
 ```
-sudo pacman -S zsh zsh-completions ttf-jetbrains-mono-nerd
+sudo pacman -S zsh zsh-autosuggestions zsh-completions ttf-jetbrains-mono-nerd
 ```
 - zsh theme from AUR:
 ```
@@ -77,10 +78,8 @@ nano ~/.zshrc
 ```
 if file doesn't exists, it should create it.
 
-Paste this at the top of `~/.zshrc` file:
-```
-source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
-```
+Paste content of my `~/.zshrc` at to your of `~/.zshrc` file:
+
 If path to zsh theme file is invalid, run:
 ```
 pacman -Ql zsh-theme-powerlevel10k | grep powerlevel10k.zsh-theme
